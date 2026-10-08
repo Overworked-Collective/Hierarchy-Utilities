@@ -1,6 +1,6 @@
 {
     "name": "bouncypantaloons.hierarchy-utilities.editor",
-    "rootNamespace": "",
+    "rootNamespace": "HierarchyUtilities",
     "references": [],
     "includePlatforms": [
         "Editor"
